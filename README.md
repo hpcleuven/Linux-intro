@@ -22,7 +22,7 @@ Free of charge
 ## Prerequisites
 n/a
 	
-## Resultaat/Objectieven
+## Result
 - Understanding basics of Linux system philosophy
 - Editing and displaying files in command line environment and in GUI
 - Use of basic command line commands
