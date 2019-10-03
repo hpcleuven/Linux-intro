@@ -30,3 +30,9 @@ n/a
 - Getting familiar with navigating the Linux File System, checking disk usage, manipulating and archiving files and directories
 - Understanding the concept of access rights and the ways to grant different rights to other users
 - Learning the ways to control processes
+
+## Reminder
+Dear,
+If you do not have KU Leuven ID (e.g. u-, r- or s- number), please contact us (hpcinfo@kuleuven.be) so that we can create a temporary account for you, with which you will be able to login on computers used during hands-on sessions. 
+Best regards,
+HPC team
