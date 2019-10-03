@@ -1,4 +1,4 @@
-# Linux course 
+# Linux introduction course 
 
 This course will give a short practical summary of the basic things one needs when using mainly the command line in Linux:
 - Overview and distributions
