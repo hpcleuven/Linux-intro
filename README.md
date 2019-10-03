@@ -33,6 +33,9 @@ n/a
 
 ## Reminder
 Dear,
+
 If you do not have KU Leuven ID (e.g. u-, r- or s- number), please contact us (hpcinfo@kuleuven.be) so that we can create a temporary account for you, with which you will be able to login on computers used during hands-on sessions. 
+
 Best regards,
+
 HPC team
