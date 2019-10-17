@@ -4,14 +4,15 @@ GitHub repository for participants of the "worker & atools" training. For inform
 
 ##What is it?
 
-[`Linux-intro.pdf`](Linux-intro.pdf) - slides from the course
+1. [`Linux-intro.pdf`](Linux-intro.pdf) - slides from the course
 
-hands-on-ubuntu-all.pdf - exercises for hands on sessions
+1. [`hands-on-ubuntu-all.pdf`](hands-on-ubuntu-all.pdf) - exercises for hands on sessions
 
-matstats.log - file used during hands on sessions
+1. [`matstats.log`](matstats.log) - file used during hands on sessions
 
-tabel.dat - file used during hands on sessions
+1. [`tabel.dat`](tabel.dat) - file used during hands on sessions
 
-README.md - info about content
+1. README.md - info about content
 
-docs - website
+1. docs - directory containing the website for this repository.
+
