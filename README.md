@@ -2,7 +2,7 @@
 
 GitHub repository for participants of the "worker & atools" training. For information on the training, see the website [https://hpcleuven.github.io/Linux-intro/](https://hpcleuven.github.io/Linux-intro/)
 
-##What is it?
+## What is it?
 
 1. [`Linux-intro.pdf`](Linux-intro.pdf) - slides from the course
 
