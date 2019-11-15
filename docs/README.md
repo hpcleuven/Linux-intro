@@ -17,6 +17,9 @@ This course is primarily targeted at researchers that would like/need to
 use Linux system for scientific purpose, e.g. VSC-users, although other
 interested parties are welcome as well.
 	
+## Duration
+Total duration: 4 hours.
+	
 ## Price
 Free of charge
 	
