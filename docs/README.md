@@ -5,10 +5,9 @@ This course will give a practical summary of the basic things one needs when usi
 - Overview and distributions
 - How to start working with Linux
 - Command line basics
-- Linux File System: navigation & file paths
+- The Linux file system: navigation, file paths & disk usage
 - File manipulation
 - Text editing
-- Diskusage
 - Displaying file content
 - Archiving
 - Text editing
